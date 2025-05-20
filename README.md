@@ -23,3 +23,5 @@ The AI Resume Critiquer is a web application built with Streamlit that uses Open
 Dependencies are included under **requirements.txt**\
 Add OpenAI key in **.env**\
 Run the app using **uv run streamlit run main.py**
+
+![image](https://github.com/user-attachments/assets/e55658ec-e32d-4f72-9adf-7b2a93493f90)
